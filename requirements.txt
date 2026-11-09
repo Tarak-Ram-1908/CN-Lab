@@ -1,0 +1,8 @@
+# Runtime: only the Python standard library (socket, threading, json, tkinter).
+# Optional - PNG export, JPEG/WebP images, smooth scaling:
+pillow>=10.1
+# Optional - voice recording on any OS (Windows records without it; Linux can use arecord):
+sounddevice>=0.4
+# Development only:
+pytest>=7
+pyinstaller>=6

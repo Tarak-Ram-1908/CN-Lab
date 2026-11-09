@@ -1,0 +1,25 @@
+{
+  "mode": "paced 10 strokes/s per client",
+  "clients": 10,
+  "ops_per_client": 60,
+  "total_ops": 600,
+  "all_delivered": true,
+  "seconds": 6.04,
+  "ops_sequenced_per_s": 99.3,
+  "deliveries_per_s": 993.4,
+  "latency_ms": {
+    "avg": 4.27,
+    "p50": 3.3,
+    "p95": 11.48,
+    "max": 19.17,
+    "samples": 5400
+  },
+  "identical_boards": true,
+  "fingerprint": "1b773f9c269ff062",
+  "late_join_snapshot": {
+    "objects": 600,
+    "json_bytes": 141069,
+    "wire_bytes": 20020,
+    "saved_percent": 85.8
+  }
+}

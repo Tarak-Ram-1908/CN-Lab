@@ -1,0 +1,25 @@
+{
+  "mode": "burst",
+  "clients": 10,
+  "ops_per_client": 200,
+  "total_ops": 2000,
+  "all_delivered": true,
+  "seconds": 1.96,
+  "ops_sequenced_per_s": 1020.3,
+  "deliveries_per_s": 10203.0,
+  "latency_ms": {
+    "avg": 1284.1,
+    "p50": 1382.22,
+    "p95": 1906.3,
+    "max": 1954.02,
+    "samples": 18000
+  },
+  "identical_boards": true,
+  "fingerprint": "f1ba0390559b0a79",
+  "late_join_snapshot": {
+    "objects": 2000,
+    "json_bytes": 482223,
+    "wire_bytes": 70588,
+    "saved_percent": 85.4
+  }
+}

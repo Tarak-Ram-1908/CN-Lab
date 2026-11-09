@@ -1,0 +1,1 @@
+"""Whiteboard client package."""
